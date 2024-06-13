@@ -3,4 +3,4 @@
 - SUB-002: Add a new component.
 
 1.1.0
-- SUB-003: Added new component for tables.
+- SUB-003: Added new component for tables and span.
