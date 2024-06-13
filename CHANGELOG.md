@@ -4,3 +4,6 @@
 
 1.1.0
 - SUB-003: Added new component for tables and span.
+
+1.1.1
+- SUB-004: Hotfix for hypertext.
