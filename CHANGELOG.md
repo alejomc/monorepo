@@ -13,4 +13,4 @@
 - SUB-004: Changes 004. dot added.
 
 1.3.0
-- SUB-005 Changes. 005 feature
+- SUB-005 Changes. 005 feature.
