@@ -2,7 +2,6 @@
 - SUB-003: changes. new changes.
 - SUB-004: Changes 004. dot added.
 
-
 1.0.0
 - SUB-001: Add the changelog.md First app release.
 - SUB-002: Add a new component.
