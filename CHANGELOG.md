@@ -1,6 +1,6 @@
 1.1.0
 - SUB-003: changes. new changes.
-- SUB-004: Changes 004.
+- SUB-004: Changes 004. dot added.
 
 
 1.0.0
