@@ -1,5 +1,5 @@
 1.1.0
-- SUB-003: changes
+- SUB-003: changes.
 
 
 1.0.0
