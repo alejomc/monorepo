@@ -22,4 +22,4 @@
 1.4.0
 - SUB-006 Changes. 006 feature. extra commit.
 - SUB-007 Changes. 007 feature. extra commit. files
-- SUB-008 Changes. 008 feature. extra commit. files
+- SUB-008 Changes. 008 feature. extra commit..
