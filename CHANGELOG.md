@@ -24,4 +24,4 @@
 - SUB-007 Changes. 007 feature. extra commit. files
 - SUB-008 Changes. 008 feature. extra commit.
 - SUB-009 Changes. 009 feature. extra.
-- SUB-010 Changes. 010 feature. extra
+- SUB-010 Changes. 010 feature. extra commit.
